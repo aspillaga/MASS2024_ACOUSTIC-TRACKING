@@ -1,0 +1,19 @@
+fish_id,species,tag_id,tag_manufacturer,tag_model,tag_protocol,tag_code,average_delay,min_delay,max_delay,length_cm,length_type,release_time_utc,latitude,longitude
+EM0004,Epinephelus marginatus,OPi-5012,Lotek,MM-R-16-33,OPi,5012,120,90,150,52,total length,2023-05-11T09:00:00Z,39.46288,2.47145
+EM0007,Epinephelus marginatus,OPi-5023,Lotek,MM-R-16-50,OPi,5023,90,60,120,64,total length,2023-05-11T09:00:00Z,39.46288,2.47145
+EM0009,Epinephelus marginatus,OPi-5021,Lotek,MM-R-16-50,OPi,5021,90,60,120,79,total length,2023-05-11T09:00:00Z,39.49562,2.44765
+EM0003,Epinephelus marginatus,OPi-5010,Lotek,MM-R-16-33,OPi,5010,120,90,150,54,total length,2023-05-11T11:00:00Z,39.46288,2.47145
+EM0001,Epinephelus marginatus,OPi-5011,Lotek,MM-R-16-33,OPi,5011,120,90,150,62,total length,2023-05-11T12:00:00Z,39.46288,2.47145
+EM0005,Epinephelus marginatus,OPi-5020,Lotek,MM-R-16-50,OPi,5020,90,60,120,52,total length,2023-05-13T10:00:00Z,39.46288,2.47145
+DP0001,Dasyatis pastinaca,OPi-5007,Lotek,MM-R-16-33,OPi,5007,120,90,150,34,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+DP0002,Dasyatis pastinaca,OPi-5051,Lotek,MM-R-16-25,OPi,5051,180,120,240,37,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+DP0003,Dasyatis pastinaca,OPi-5052,Lotek,MM-R-16-25,OPi,5052,180,120,240,33,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+DP0005,Dasyatis pastinaca,OPi-5008,Lotek,MM-R-16-33,OPi,5008,120,90,150,40,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+DP0009,Dasyatis pastinaca,OPi-5046,Lotek,MM-R-16-25,OPi,5046,180,120,240,32,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+DP0010,Dasyatis pastinaca,OPi-5050,Lotek,MM-R-16-25,OPi,5050,180,120,240,31,disk width,2023-06-01T09:00:00Z,39.46724,2.72301
+SD0003,Seriola dumerili,OPi-5036,Lotek,MM-R-16-50,OPi,5036,90,60,120,97,fork length,2023-09-13T13:00:00Z,39.46403,2.47116
+SD0012,Seriola dumerili,OPi-5037,Lotek,MM-R-16-50,OPi,5037,90,60,120,84,fork length,2023-10-05T11:00:00Z,39.46403,2.47116
+SD0019,Seriola dumerili,OPi-5031,Lotek,MM-R-16-33,OPi,5031,120,90,150,49,fork length,2023-12-19T09:00:00Z,39.57103,2.30582
+SD0020,Seriola dumerili,OPi-5030,Lotek,MM-R-16-33,OPi,5030,120,90,150,122,fork length,2023-12-19T10:00:00Z,39.57103,2.30582
+SD0021,Seriola dumerili,OPi-5028,Lotek,MM-R-16-33,OPi,5028,120,90,150,88,fork length,2023-12-19T12:00:00Z,39.57103,2.30582
+SD0023,Seriola dumerili,OPi-1125,Thelma Biotel,ID-HP13,OPi,1125,300,270,330,40,fork length,2023-12-30T11:00:00Z,39.57103,2.30582
